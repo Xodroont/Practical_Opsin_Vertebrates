@@ -13,7 +13,7 @@ Opsin Identification and Phylogenetic Analysis Pipeline
 3. Sequence Alignment
    - Copy the confirmed opsin sequences into the precompiled FASTA file (Opsins.fasta).
    - Open the file with AliView.
-   - Align the sequences using MUSCLE.
+   - Align the sequences using MUSCLE.  https://www.ebi.ac.uk/jdispatcher/msa/mafft (copy paste)
    - Remove any sequences lacking the retinal-binding domain, as these are not true opsins.
    - Save it as a new .fasta  file.
 
